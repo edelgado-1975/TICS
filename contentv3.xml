@@ -239,7 +239,7 @@
      <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
      <int value="2"></int>
      <string role="key" value="exportType"></string>
-     <string value="singlepage"></string>
+     <string value="website"></string>
      <string role="key" value="last_full_node_path"></string>
      <string value="exe-node:Inicio"></string>
      <string role="key" value="parent"></string>
@@ -390,7 +390,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Inicio:Formulacion%20de%20las%20Actividades%20de%20Aprendizaje"></string>
         <string role="key" value="parent"></string>
@@ -530,7 +530,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Hoja_de_trabajo___AA_virtual_[AA_1].pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\root\\appdata\\local\\temp\\tmphpxrzi\\Hoja_de_trabajo___AA_virtual_[AA_1].pdf"></string>
+                        <string value="c:\\users\\root\\appdata\\local\\temp\\tmp3d9usf\\Hoja_de_trabajo___AA_virtual_[AA_1].pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="800333d3de47b58f60326d78058bf82f"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -601,7 +601,7 @@
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="singlepage"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Inicio:Formulacion%20de%20las%20Actividades%20de%20Aprendizaje:Actividad%20de%20aprendizaje%201%20-%20Descripcion%20Evidencia%201"></string>
            <string role="key" value="parent"></string>
@@ -756,7 +756,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Inicio:Material%20de%20apoyo"></string>
         <string role="key" value="parent"></string>
@@ -895,7 +895,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Aprender-a-buscar-en-Google.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\root\\appdata\\local\\temp\\tmphpxrzi\\Aprender-a-buscar-en-Google.pdf"></string>
+                        <string value="c:\\users\\root\\appdata\\local\\temp\\tmp3d9usf\\Aprender-a-buscar-en-Google.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="e58692aebf726bd9fa5a21424d26e3a9"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -947,7 +947,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Bitacora_de_Busqueda.xlsx"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\root\\appdata\\local\\temp\\tmphpxrzi\\Bitacora_de_Busqueda.xlsx"></string>
+                        <string value="c:\\users\\root\\appdata\\local\\temp\\tmp3d9usf\\Bitacora_de_Busqueda.xlsx"></string>
                         <string role="key" value="checksum"></string>
                         <string value="beab0660fada568ceb850e4f14b8e98f"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -999,7 +999,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Caso_de_estudio___AA_virtual_[AA_1].pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\root\\appdata\\local\\temp\\tmphpxrzi\\Caso_de_estudio___AA_virtual_[AA_1].pdf"></string>
+                        <string value="c:\\users\\root\\appdata\\local\\temp\\tmp3d9usf\\Caso_de_estudio___AA_virtual_[AA_1].pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="febab200c7c3f669760385382e4f4691"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1072,7 +1072,7 @@
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="singlepage"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Inicio:Material%20de%20apoyo:Actividad%201%20-%20Evidencia%201"></string>
            <string role="key" value="parent"></string>
@@ -1227,7 +1227,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Inicio:Recusros%20de%20la%20asignatura%20TICS"></string>
         <string role="key" value="parent"></string>
